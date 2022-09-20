@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Scratch e Java
 - 💞️ I’m looking to collaborate on 
 paying attention in class, and doing my best in learning
-- 📫 How to reach me @raica.calsavara@escola.pr.gov.br
+- 📫 How to reach me raica.calsavara@escola.pr.gov.br
 
 <!---
 wikkinha/wikkinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
