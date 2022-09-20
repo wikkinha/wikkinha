@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wikkinha
 - 👀 I’m interested in get better at programming
-- 🌱 I'm currently learning Scratch e Java
+- 🌱 I'm currently learning Scratch, Java and GitHub
 - 💞️ I’m looking to collaborate on 
 paying attention in class, and doing my best in learning
 - 📫 How to reach me raica.calsavara@escola.pr.gov.br
