@@ -1,10 +1,15 @@
 # Sobre mim
-- 👋 Hi, I’m @wikkinha
+- 👋 Hi, I’m **@wikkinha**
 - 👀 I’m interested in get better at programming
 - 🌱 I'm currently learning Scratch, Java and GitHub
 - 💞️ I’m looking to collaborate on 
 paying attention in class, and doing my best in learning
 - 📫 How to reach me raica.calsavara@escola.pr.gov.br
+
+ (Scratch)![Uploading image.png…]()
+
+
+
 
 <!---
 wikkinha/wikkinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
