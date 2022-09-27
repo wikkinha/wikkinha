@@ -1,5 +1,4 @@
-Sobre mim
-
+# Sobre mim
 - 👋 Hi, I’m @wikkinha
 - 👀 I’m interested in get better at programming
 - 🌱 I'm currently learning Scratch, Java and GitHub
