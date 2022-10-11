@@ -6,8 +6,7 @@
 paying attention in class, and doing my best in learning
 - 📫 How to reach me raica.calsavara@escola.pr.gov.br
 
-(!<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
+!<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
           
 <!---
